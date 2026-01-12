@@ -95,7 +95,9 @@ TERMINAL TAB (NORMAL MODE) -> n { space + t + t / ctrl + n } // n = tab number
 FIND FILE (NORMAL MODE) -> space + f + f
 
 
-
-
-
+| Command         | Action                 |
+| --------------- | ---------------------- |
+| `space + e`     | FOLDER TAB             |
+| `n* + ctrl + \` | Terminal               |
+| `space + f + f` | FIND FILE              |
 
